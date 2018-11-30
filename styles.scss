@@ -1,0 +1,19 @@
+body{
+  text-align: center; 
+  padding: 40px;
+  background: #1aa;
+}
+.coffee{
+  text-transform: capitalize;
+}
+label{
+  font-weight: bold;
+  input{
+    padding: 10px;
+    margin-left: .5em;
+    border: 0;
+    background-color: RGBA(166, 123, 91, 1);
+    color: #000;
+  }
+
+}
